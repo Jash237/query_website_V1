@@ -10,3 +10,5 @@ Three beautiful themes: Light ☀️, Animated Dark 🌙 (with subtle particle c
 Theme toggle widget (persists across sessions)
 Fully client-side with localStorage persistence (perfect for hackathons/demos)
 Built with vanilla HTML, Tailwind CSS, and JavaScript — no backend required
+
+P.S : ensure that you make another folder called "queries_V1" to ensure smooth running as this ver. does not currently have a firebase esque backend storage
